@@ -1,0 +1,6 @@
+{
+  "name": "Employee Payroll Management System",
+  "description": "Full-stack Employee Payroll Management System built with React, Node.js, Express, and MySQL featuring 3NF normalization, SQL views, triggers, stored procedures, and ACID transactions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
